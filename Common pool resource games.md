@@ -1,7 +1,7 @@
 MOC		: 
 Source	: 
-Projet	: [PROJECT Collective Degrowth Experiments (CODEX)](PROJECT%20Collective%20Degrowth%20Experiments%20(CODEX).md)
-Tags	: 
+Projet	: [PROJECT CODEX (Collective Degrowth Experiments)](PROJECT%20CODEX%20(Collective%20Degrowth%20Experiments).md)
+Tags	: #economics #experimental_economics
 Date de création : <% tp.file.creation_date("DD-MM-YYYY") %>
 Dernière modification : <% tp.file.last_modified_date("DD-MM-YYYY HH:mm:ss") %>
 

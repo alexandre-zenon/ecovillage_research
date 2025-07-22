@@ -1,6 +1,6 @@
 MOC		: 
 Source	: 
-Projet	: [MOC Sustainable wellbeing](../../MOC%20Sustainable%20wellbeing.md)
+Projet	: [MOC Sustainable wellbeing](MOC%20Sustainable%20wellbeing.md)
 Tags	:
 Date de création : 16-10-2023
 Dernière modification : 16-10-2023 16:35:12

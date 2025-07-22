@@ -1,6 +1,6 @@
 #ABM #communities
 
-PROJET: [PROJECT Collective Degrowth Experiments (CODEX)](PROJECT%20Collective%20Degrowth%20Experiments%20(CODEX).md)
+PROJET: [PROJECT GRADIT (Group Resilience and Adaptation to Diverse Individual Traits)](PROJECT%20GRADIT%20(Group%20Resilience%20and%20Adaptation%20to%20Diverse%20Individual%20Traits).md)
 
 ## Hypotheses
 - Influence of personality traits and governance rules on efficiency
